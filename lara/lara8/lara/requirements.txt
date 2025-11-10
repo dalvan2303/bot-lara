@@ -1,0 +1,4 @@
+neonize
+openai
+yt-dlp
+# adicione outras libs que você usa
