@@ -1,5 +1,4 @@
-# filepath: /home/joao/Área de trabalho/lara/lara.py
-# ...existing code...
+
 import os
 import re
 import time
